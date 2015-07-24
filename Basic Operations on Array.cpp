@@ -1,4 +1,4 @@
-//Basic opertions of One dimensional Array
+/*Basic opertions of One dimensional Array*/
 #include<iostream.h>
 #include<conio.h>
 #include<stdlib.h>
